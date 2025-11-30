@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Patchouli-1.
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Placebo-1.20.1-8.6.2.jar|Placebo-1.20.1-8.6.2.jar
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar|PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar|PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/SecurityCraft%20v1.10.0.1.jar|SecurityCraft v1.10.0.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/SecurityCraftv1.10.0.1.jar|SecurityCraftv1.10.0.1.jar
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar|TerraBlender-forge-1.20.1-3.0.1.10.jar
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar|The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
 https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/YungsApi-1.20-Forge-4.0.6.jar|YungsApi-1.20-Forge-4.0.6.jar
