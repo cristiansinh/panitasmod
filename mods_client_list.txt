@@ -1,69 +1,69 @@
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/AI-Improvements-1.20-0.5.2.jar  AI-Improvements-1.20-0.5.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar  BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Chunky-1.3.146.jar  Chunky-1.3.146.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar  CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Croptopia-1.20.1-FORGE-3.0.4.jar  Croptopia-1.20.1-FORGE-3.0.4.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar  EpheroLib-1.20.1-FORGE-1.2.0.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ExtraGems-1.20.x-(v.2.3.3).jar  ExtraGems-1.20.x-(v.2.3.3).jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FallingTree-1.20.1-4.3.4.jar  FallingTree-1.20.1-4.3.4.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FarmersDelight-1.20.1-1.2.9.jar  FarmersDelight-1.20.1-1.2.9.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FastWorkbench-1.20.1-8.0.4.jar  FastWorkbench-1.20.1-8.0.4.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar  GlitchCore-forge-1.20.1-0.0.1.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/InventoryProfilesNext-forge-1.20-1.10.11.jar  InventoryProfilesNext-forge-1.20-1.10.11.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar  ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Kiwi-1.20.1-Forge-11.9.2.jar  Kiwi-1.20.1-Forge-11.9.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/MoogsVoyagerStructures-1.20-5.0.21.jar  MoogsVoyagerStructures-1.20-5.0.21.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OpenLogin.jar  OpenLogin.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar  OptiFine-1.20.1_HD_U_I6_pre6.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OptiFine_1.20.1_HD_U_I6.jar  OptiFine_1.20.1_HD_U_I6.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ParCool-1.20.1-3.4.2.0.jar  ParCool-1.20.1-3.4.2.0.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Patchouli-1.20.1-84.1-FORGE.jar  Patchouli-1.20.1-84.1-FORGE.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Placebo-1.20.1-8.6.2.jar  Placebo-1.20.1-8.6.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar  PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar  PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/SecurityCraft v1.10.0.1.jar  SecurityCraft v1.10.0.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar  TerraBlender-forge-1.20.1-3.0.1.10.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar  The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/YungsApi-1.20-Forge-4.0.6.jar  YungsApi-1.20-Forge-4.0.6.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/alexscaves-2.0.2.jar  alexscaves-2.0.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/alexsmobs-1.22.9.jar  alexsmobs-1.22.9.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/architectury-9.2.14-forge.jar  architectury-9.2.14-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/artifacts-forge-9.5.11.jar  artifacts-forge-9.5.11.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/balm-forge-1.20.1-7.3.37-all.jar  balm-forge-1.20.1-7.3.37-all.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/brutalbosses-1.20.1-8.4.jar  brutalbosses-1.20.1-8.4.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/carryon-forge-1.20.1-2.1.2.7.jar  carryon-forge-1.20.1-2.1.2.7.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/citadel-2.6.1-1.20.1.jar  citadel-2.6.1-1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cloth-config-11.1.136-forge.jar  cloth-config-11.1.136-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar  cosmeticarmorreworked-1.20.1-v1a.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/create-1.20.1-6.0.7.jar  create-1.20.1-6.0.7.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cristellib-1.1.5-forge.jar  cristellib-1.1.5-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cupboard-1.20.1-2.7.jar  cupboard-1.20.1-2.7.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/curios-forge-5.14.1+1.20.1.jar  curios-forge-5.14.1+1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar  do_a_barrel_roll-forge-3.5.6+1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/dungeons-and-taverns-3.0.3.f.jar  dungeons-and-taverns-3.0.3.f.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ferritecore-6.0.1-forge.jar  ferritecore-6.0.1-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/geckolib-forge-1.20.1-4.8.2.jar  geckolib-forge-1.20.1-4.8.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/globalxp-forge-1.20.1-1.11.jar  globalxp-forge-1.20.1-1.11.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/handcrafted-forge-1.20.1-3.0.6.jar  handcrafted-forge-1.20.1-3.0.6.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/iceandfire-2.1.13-1.20.1-beta-5.jar  iceandfire-2.1.13-1.20.1-beta-5.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/immersive_aircraft-1.4.0+1.20.1-forge.jar  immersive_aircraft-1.4.0+1.20.1-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/jei-1.20.1-forge-15.20.0.118.jar  jei-1.20.1-forge-15.20.0.118.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/journeymap-1.20.1-5.10.3-forge.jar  journeymap-1.20.1-5.10.3-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/kotlinforforge-4.11.0-all.jar  kotlinforforge-4.11.0-all.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/libIPN-forge-1.20-4.0.2.jar  libIPN-forge-1.20-4.0.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/libraryferret-forge-1.20.1-4.0.0.jar  libraryferret-forge-1.20.1-4.0.0.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar  many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/minecraft-comes-alive-7.6.12+1.20.1-universal.jar  minecraft-comes-alive-7.6.12+1.20.1-universal.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/modernfix-forge-5.20.0+mc1.20.1.jar  modernfix-forge-5.20.0+mc1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar  moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/moremobvariants-forge+1.20.1-1.3.0.1.jar  moremobvariants-forge+1.20.1-1.3.0.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar  resourcefullib-forge-1.20.1-2.1.29.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/servercore-forge-1.5.2+1.20.1.jar  servercore-forge-1.5.2+1.20.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar  sophisticatedbackpacks-1.20.1-3.24.12.1411.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sophisticatedcore-1.20.1-1.2.107.1240.jar  sophisticatedcore-1.20.1-1.2.107.1240.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar  sound-physics-remastered-forge-1.20.1-1.5.1.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/tombstone-1.20.1-9.0.7.jar  tombstone-1.20.1-9.0.7.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/tpaplusplus-net.superricky.tpaplusplus.jar  tpaplusplus-net.superricky.tpaplusplus.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/trashslot-forge-1.20-15.1.2.jar  trashslot-forge-1.20-15.1.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/visuality-forge-2.0.2.jar  visuality-forge-2.0.2.jar
-https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/voicechat-forge-1.20.1-2.6.4.jar  voicechat-forge-1.20.1-2.6.4.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/AI-Improvements-1.20-0.5.2.jar|AI-Improvements-1.20-0.5.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/BiomesOPlenty-forge-1.20.1-19.0.0.96.jar|BiomesOPlenty-forge-1.20.1-19.0.0.96.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Chunky-1.3.146.jar|Chunky-1.3.146.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar|CreativeCore_FORGE_v2.12.32_mc1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Croptopia-1.20.1-FORGE-3.0.4.jar|Croptopia-1.20.1-FORGE-3.0.4.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar|EpheroLib-1.20.1-FORGE-1.2.0.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ExtraGems-1.20.x-(v.2.3.3).jar|ExtraGems-1.20.x-(v.2.3.3).jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FallingTree-1.20.1-4.3.4.jar|FallingTree-1.20.1-4.3.4.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FarmersDelight-1.20.1-1.2.9.jar|FarmersDelight-1.20.1-1.2.9.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/FastWorkbench-1.20.1-8.0.4.jar|FastWorkbench-1.20.1-8.0.4.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar|GlitchCore-forge-1.20.1-0.0.1.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/InventoryProfilesNext-forge-1.20-1.10.11.jar|InventoryProfilesNext-forge-1.20-1.10.11.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar|ItemPhysic_FORGE_v1.8.9_mc1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Kiwi-1.20.1-Forge-11.9.2.jar|Kiwi-1.20.1-Forge-11.9.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/MoogsVoyagerStructures-1.20-5.0.21.jar|MoogsVoyagerStructures-1.20-5.0.21.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OpenLogin.jar|OpenLogin.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OptiFine-1.20.1_HD_U_I6_pre6.jar|OptiFine-1.20.1_HD_U_I6_pre6.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/OptiFine_1.20.1_HD_U_I6.jar|OptiFine_1.20.1_HD_U_I6.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ParCool-1.20.1-3.4.2.0.jar|ParCool-1.20.1-3.4.2.0.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Patchouli-1.20.1-84.1-FORGE.jar|Patchouli-1.20.1-84.1-FORGE.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/Placebo-1.20.1-8.6.2.jar|Placebo-1.20.1-8.6.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar|PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/PresenceFootsteps-1.20.1-1.9.1-beta.1.jar|PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/SecurityCraft v1.10.0.1.jar|SecurityCraft v1.10.0.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar|TerraBlender-forge-1.20.1-3.0.1.10.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar|The_Graveyard_3.1_(FORGE)_for_1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/YungsApi-1.20-Forge-4.0.6.jar|YungsApi-1.20-Forge-4.0.6.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/alexscaves-2.0.2.jar|alexscaves-2.0.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/alexsmobs-1.22.9.jar|alexsmobs-1.22.9.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/architectury-9.2.14-forge.jar|architectury-9.2.14-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/artifacts-forge-9.5.11.jar|artifacts-forge-9.5.11.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/balm-forge-1.20.1-7.3.37-all.jar|balm-forge-1.20.1-7.3.37-all.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/brutalbosses-1.20.1-8.4.jar|brutalbosses-1.20.1-8.4.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/carryon-forge-1.20.1-2.1.2.7.jar|carryon-forge-1.20.1-2.1.2.7.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/citadel-2.6.1-1.20.1.jar|citadel-2.6.1-1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cloth-config-11.1.136-forge.jar|cloth-config-11.1.136-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cosmeticarmorreworked-1.20.1-v1a.jar|cosmeticarmorreworked-1.20.1-v1a.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/create-1.20.1-6.0.7.jar|create-1.20.1-6.0.7.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cristellib-1.1.5-forge.jar|cristellib-1.1.5-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/cupboard-1.20.1-2.7.jar|cupboard-1.20.1-2.7.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/curios-forge-5.14.1+1.20.1.jar|curios-forge-5.14.1+1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/do_a_barrel_roll-forge-3.5.6+1.20.1.jar|do_a_barrel_roll-forge-3.5.6+1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/dungeons-and-taverns-3.0.3.f.jar|dungeons-and-taverns-3.0.3.f.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/ferritecore-6.0.1-forge.jar|ferritecore-6.0.1-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/geckolib-forge-1.20.1-4.8.2.jar|geckolib-forge-1.20.1-4.8.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/globalxp-forge-1.20.1-1.11.jar|globalxp-forge-1.20.1-1.11.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/handcrafted-forge-1.20.1-3.0.6.jar|handcrafted-forge-1.20.1-3.0.6.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/iceandfire-2.1.13-1.20.1-beta-5.jar|iceandfire-2.1.13-1.20.1-beta-5.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/immersive_aircraft-1.4.0+1.20.1-forge.jar|immersive_aircraft-1.4.0+1.20.1-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/jei-1.20.1-forge-15.20.0.118.jar|jei-1.20.1-forge-15.20.0.118.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/journeymap-1.20.1-5.10.3-forge.jar|journeymap-1.20.1-5.10.3-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/kotlinforforge-4.11.0-all.jar|kotlinforforge-4.11.0-all.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/libIPN-forge-1.20-4.0.2.jar|libIPN-forge-1.20-4.0.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/libraryferret-forge-1.20.1-4.0.0.jar|libraryferret-forge-1.20.1-4.0.0.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar|many_more_ores_and_crafts-forge-1.20.1-1.1.3-1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/minecraft-comes-alive-7.6.12+1.20.1-universal.jar|minecraft-comes-alive-7.6.12+1.20.1-universal.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/modernfix-forge-5.20.0+mc1.20.1.jar|modernfix-forge-5.20.0+mc1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar|moogs_structure_lib-1.0.1-1.20-1.20.4-forge.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/moremobvariants-forge+1.20.1-1.3.0.1.jar|moremobvariants-forge+1.20.1-1.3.0.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/resourcefullib-forge-1.20.1-2.1.29.jar|resourcefullib-forge-1.20.1-2.1.29.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/servercore-forge-1.5.2+1.20.1.jar|servercore-forge-1.5.2+1.20.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar|sophisticatedbackpacks-1.20.1-3.24.12.1411.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sophisticatedcore-1.20.1-1.2.107.1240.jar|sophisticatedcore-1.20.1-1.2.107.1240.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/sound-physics-remastered-forge-1.20.1-1.5.1.jar|sound-physics-remastered-forge-1.20.1-1.5.1.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/tombstone-1.20.1-9.0.7.jar|tombstone-1.20.1-9.0.7.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/tpaplusplus-net.superricky.tpaplusplus.jar|tpaplusplus-net.superricky.tpaplusplus.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/trashslot-forge-1.20-15.1.2.jar|trashslot-forge-1.20-15.1.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/visuality-forge-2.0.2.jar|visuality-forge-2.0.2.jar
+https://raw.githubusercontent.com/cristiansinh/panitasmod/main/mods/voicechat-forge-1.20.1-2.6.4.jar|voicechat-forge-1.20.1-2.6.4.jar
