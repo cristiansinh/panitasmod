@@ -17,7 +17,7 @@ cls
 echo.
 echo  ###########################################################
 echo  #                                                         #
-echo  #                PANITAS MODS UPDATER                     #
+echo  #                PANITAS MODS UPDATER V2                  #
 echo  #                                                         #
 echo  ###########################################################
 echo.
