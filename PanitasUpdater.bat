@@ -21,7 +21,7 @@ echo  #                PANITAS MODS UPDATER                     #
 echo  #                                                         #
 echo  ###########################################################
 echo.
-echo   Proyecto   : Panitas Server by eladmin (yo xdxd)
+echo   Proyecto   : Panitas Server by eladmin (yo xdxdxdxdxd)
 echo   Repo       : https://github.com/%GITHUB_OWNER%/%GITHUB_REPO%
 echo   Carpeta de mods local:
 echo       %MC_MODS_DIR%
