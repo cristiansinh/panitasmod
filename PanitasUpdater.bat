@@ -1,13 +1,23 @@
 @echo off
 setlocal ENABLEDELAYEDEXPANSION
 
+rem ================== CONFIGURACION GITHUB ==================
 set "GITHUB_OWNER=cristiansinh"
 set "GITHUB_REPO=panitasmod"
 set "GITHUB_BRANCH=main"
 
+rem URL base de la carpeta /mods en el repo (DEBE COINCIDIR con la del GUI)
+set "BASE_MODS_URL=https://raw.githubusercontent.com/%GITHUB_OWNER%/%GITHUB_REPO%/%GITHUB_BRANCH%/mods/"
+
+rem URL del TXT con la lista (solo URLs)
 set "MODS_LIST_URL=https://raw.githubusercontent.com/%GITHUB_OWNER%/%GITHUB_REPO%/%GITHUB_BRANCH%/mods_client_list.txt"
+
+rem Carpeta de mods de Minecraft
 set "MC_MODS_DIR=%APPDATA%\.minecraft\mods"
+
+rem Ruta temporal para la lista
 set "TEMP_LIST=%TEMP%\mods_client_list_panitas.txt"
+rem ==========================================================
 
 color 1F
 title PANITAS MODS UPDATER
@@ -17,7 +27,7 @@ cls
 echo.
 echo  ###########################################################
 echo  #                                                         #
-echo  #                PANITAS MODS UPDATER V2                  #
+echo  #                PANITAS MODS UPDATER V3                  #
 echo  #                                                         #
 echo  ###########################################################
 echo.
@@ -83,12 +93,21 @@ set /A COUNT_YA_EXISTIAN=0
 set "NEW_MODS_FILE=%TEMP%\panitas_new_mods_%RANDOM%.txt"
 if exist "%NEW_MODS_FILE%" del /f /q "%NEW_MODS_FILE%" >nul 2>&1
 
-for /f "usebackq tokens=1,2 delims=|" %%A in ("%TEMP_LIST%") do (
-    set "URL=%%A"
-    set "FILENAME=%%B"
+rem Cada linea es UNA URL completa al .jar
+for /f "usebackq delims=" %%M in ("%TEMP_LIST%") do (
+    set "URL=%%M"
 
-    if not "!URL!"=="" if not "!FILENAME!"=="" (
+    rem Saltar lineas vacias
+    if not "!URL!"=="" (
         set /A COUNT_TOTAL+=1
+
+        rem Obtener el nombre del archivo eliminando el prefijo BASE_MODS_URL
+        set "FILENAME=!URL:%BASE_MODS_URL%=!"
+
+        rem Si por alguna razon no coincide el prefijo, usar el ultimo segmento como fallback
+        if "!FILENAME!"=="!URL!" (
+            for %%X in (!URL!) do set "FILENAME=%%~nxX"
+        )
 
         if exist "%MC_MODS_DIR%\!FILENAME!" (
             echo [YA EXISTE] !FILENAME!
